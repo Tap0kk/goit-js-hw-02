@@ -1,4 +1,4 @@
-`use strict`
+"use strict"
 
 function getShippingCost(country) {
     let msg

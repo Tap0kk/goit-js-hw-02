@@ -1,4 +1,4 @@
-`use strict`
+"use strict"
 
 function makeTransaction(quantity, pricePerDroid, customerCredits) {
     const sum = quantity * pricePerDroid;
